@@ -54,11 +54,6 @@ JOIN customers c
 GROUP BY c.region
 ORDER BY total_units DESC;
 
-Add this:
-
----
-
-```markdown
 ---
 
 ## Key Insights

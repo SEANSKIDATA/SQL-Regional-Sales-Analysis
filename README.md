@@ -53,9 +53,9 @@ JOIN customers c
     ON c.customer_id = o.customer_id
 GROUP BY c.region
 ORDER BY total_units DESC;
+```
 
 ---
-
 ## Key Insights
 
 - The highest-performing region accounts for a disproportionate share of total unit sales.

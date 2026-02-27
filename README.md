@@ -26,6 +26,7 @@ customers(customer_id, customer_name, region)
 The dataset simulates a transactional sales environment where customer purchases are aggregated for performance evaluation.
 
 Key Analyses Performed
+
 1️⃣ Regional Performance Ranking
 
 Determined which regions generate the highest total unit sales to guide market prioritization.
